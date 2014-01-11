@@ -31,7 +31,6 @@ gxp.plugins.FeatureDrawingConstants = {
  *
  * Provides a menu to draw on layers given in config.
  * <ul>
- *     <li>Based on a WMS
  *     <li>You can pass as much as layers as you want.
  *     Currently only POINT, LINE and POLYGON layers are supported.</li>
  *     <li>You can allow text add to your layer (here symoblized by a checkbox with the Ext id given on config in
