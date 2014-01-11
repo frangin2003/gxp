@@ -28,6 +28,7 @@ gxp.plugins.FeatureEditor2Constants = {
  *
  * Provides a menu to edit layers given in config.
  * <ul>
+ *     <li>You don't have to load vector layer to allow selection and edition</li>
  *     <li>Three menu entries: One for vertex modification, one for move/rotation of feature and one for deleting
  *     feature with confirm dialog box.</li>
  *     <li>You can clicked everywhere on the map. Using a OpenLayers.Control.WMSGetFeatureInfo control, we get the
