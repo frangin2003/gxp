@@ -33,7 +33,7 @@ gxp.plugins.FeatureDrawingConstants = {
  * <ul>
  *     <li>You can pass as much as layers as you want.
  *     Currently only POINT, LINE and POLYGON layers are supported.</li>
- *     <li>You can allow text add to your layer (here symoblized by a checkbox with the Ext id given on config in
+ *     <li>You can allow text add to your layer (here symbolized by a checkbox with the Ext id given on config in
  *     'labelPromptCheckboxId'</li>
  *
  * The expected 'editableLayers' parameter expected structure is:
